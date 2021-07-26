@@ -42,6 +42,16 @@ body {
     background: #4CAF50 !important;
 }
 
+.correct > div{
+    display: none !important;
+}
+
 .incorrect{
     background: #b45740 !important;
 }
+
+@media (max-width: 996px) {
+    .wrap{
+        margin: auto !important;
+    }
+  }
