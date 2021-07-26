@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: `/eignungstest`,
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "Praktikum Selbsttest",
   },
-  plugins: [],
+  plugins: [`gatsby-plugin-styled-components`],
 };

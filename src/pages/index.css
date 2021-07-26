@@ -1,0 +1,47 @@
+body {
+    background: #4CAF50;
+}
+
+.wrap{
+    margin-top: 4em;
+}
+
+.container{
+    max-width: 1000px;
+    background: var(--bs-light);
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    overflow: hidden;
+}
+
+.btn{
+    background: white !important;
+}
+
+.react-quiz-container{
+    margin: 0px !important;
+    width: 100% !important;
+}
+
+.tag-container{
+    display: none !important;
+}
+
+.result-answer-wrapper img{
+    display: none !important;
+}
+
+.card-body{
+    padding: 0 !important;
+}
+
+.footer{
+    text-align: center;
+}
+
+.correct{
+    background: #4CAF50 !important;
+}
+
+.incorrect{
+    background: #b45740 !important;
+}
