@@ -1,0 +1,2 @@
+::Clean website
+gatsby clean
