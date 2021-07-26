@@ -12,9 +12,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Ein landwirtschaftliches Fachpraktikum bedeutet, im Mittel 40 Stunden pro Woche (= durchschnittlich 8 Stunden am Tag) körperliche Arbeit. Das setzt ein gewisses Maß an körperlicher Fitness voraus und ein Interesse an den verschiedenen notwendigen Arbeiten.",
-            "messageForIncorrectAnswer": "👎 Ein landwirtschaftliches Fachpraktikum bedeutet, im Mittel 40 Stunden pro Woche (= durchschnittlich 8 Stunden am Tag) körperliche Arbeit. Das setzt ein gewisses Maß an körperlicher Fitness voraus und ein Interesse an den verschiedenen notwendigen Arbeiten.",
-            "explanation": "",
+            "explanation": "Ein landwirtschaftliches Fachpraktikum bedeutet, im Mittel 40 Stunden pro Woche (= durchschnittlich 8 Stunden am Tag) körperliche Arbeit. Das setzt ein gewisses Maß an körperlicher Fitness voraus und ein Interesse an den verschiedenen notwendigen Arbeiten.",
             "point": "1"
         },
         {
@@ -27,9 +25,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Im LOGO-Praktikum liegt der Schwerpunkt auf dem Erlernen der Methoden des ökologischen Landbaues. Deutsche Praktikanten verdienen oftmals gar kein Geld im Praktikum. LOGO-Praktikanten, die sehr interessiert und fleißig sind, können vom Betrieb einen Bonus in Form von zusätzlicher Freizeit oder etwas mehr Geld erhalten.",
-            "messageForIncorrectAnswer": "👎 Im LOGO-Praktikum liegt der Schwerpunkt auf dem Erlernen der Methoden des ökologischen Landbaues. Deutsche Praktikanten verdienen oftmals gar kein Geld im Praktikum. LOGO-Praktikanten, die sehr interessiert und fleißig sind, können vom Betrieb einen Bonus in Form von zusätzlicher Freizeit oder etwas mehr Geld erhalten.",
-            "explanation": "",
+            "explanation": "Im LOGO-Praktikum liegt der Schwerpunkt auf dem Erlernen der Methoden des ökologischen Landbaues. Deutsche Praktikanten verdienen oftmals gar kein Geld im Praktikum. LOGO-Praktikanten, die sehr interessiert und fleißig sind, können vom Betrieb einen Bonus in Form von zusätzlicher Freizeit oder etwas mehr Geld erhalten.",
             "point": "1"
         },
         {
@@ -42,9 +38,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Egal, wo Sie später arbeiten – in der Praxis, in Behörden, in der Forschung – es ist von zentraler Be-deutung, auch praktische Berufserfahrung zu sammeln, um später seine beruflichen Aufgaben gut und fachlich korrekt ausführen zu können.",
-            "messageForIncorrectAnswer": "👎 Egal, wo Sie später arbeiten – in der Praxis, in Behörden, in der Forschung – es ist von zentraler Be-deutung, auch praktische Berufserfahrung zu sammeln, um später seine beruflichen Aufgaben gut und fachlich korrekt ausführen zu können.",
-            "explanation": "",
+            "explanation": "Egal, wo Sie später arbeiten – in der Praxis, in Behörden, in der Forschung – es ist von zentraler Bedeutung, auch praktische Berufserfahrung zu sammeln, um später seine beruflichen Aufgaben gut und fachlich korrekt ausführen zu können.",
             "point": "1"
         }
         ,
@@ -58,9 +52,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Ein 6-monatiges Praktikum in einem anderen Land kann nur dann gut laufen, wenn du dich auf die für die vielleicht fremde Kultur einlässt und versuchst, dich daran anzupassen. Gegenseitiges Inte-resse füreinander ist natürlich besonders wichtig. ",
-            "messageForIncorrectAnswer": "👎 Ein 6-monatiges Praktikum in einem anderen Land kann nur dann gut laufen, wenn du dich auf die für die vielleicht fremde Kultur einlässt und versuchst, dich daran anzupassen. Gegenseitiges Inte-resse füreinander ist natürlich besonders wichtig. ",
-            "explanation": "",
+            "explanation": "Ein 6-monatiges Praktikum in einem anderen Land kann nur dann gut laufen, wenn du dich auf die für die vielleicht fremde Kultur einlässt und versuchst, dich daran anzupassen. Gegenseitiges Interesse füreinander ist natürlich besonders wichtig.",
             "point": "1"
         }
         ,{
@@ -73,9 +65,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusam-menhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
-            "messageForIncorrectAnswer": "👎 Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusam-menhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
-            "explanation": "",
+            "explanation": "Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusammenhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
             "point": "1"
         }
         ,{
@@ -88,9 +78,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Auch in Zeiten von Smartphone und Übersetzer: das Erlernen der deutschen Sprache ist für den Erfolg des Praktikums von zentraler Bedeutung! Wichtig ist deshalb eine regelmäßige Teilnahme an den vorbereitenden Sprachkursen und im Praktikum eine häufige mündliche Kommunikation mit der Betriebsleiterfamilie und den Mitarbeitenden.",
-            "messageForIncorrectAnswer": "👎 Auch in Zeiten von Smartphone und Übersetzer: das Erlernen der deutschen Sprache ist für den Erfolg des Praktikums von zentraler Bedeutung! Wichtig ist deshalb eine regelmäßige Teilnahme an den vorbereitenden Sprachkursen und im Praktikum eine häufige mündliche Kommunikation mit der Betriebsleiterfamilie und den Mitarbeitenden.",
-            "explanation": "",
+            "explanation": "Auch in Zeiten von Smartphone und Übersetzer: das Erlernen der deutschen Sprache ist für den Erfolg des Praktikums von zentraler Bedeutung! Wichtig ist deshalb eine regelmäßige Teilnahme an den vorbereitenden Sprachkursen und im Praktikum eine häufige mündliche Kommunikation mit der Betriebsleiterfamilie und den Mitarbeitenden.",
             "point": "1"
         }
         ,{
@@ -103,9 +91,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Für die Betriebe, die Praktikanten aufnehme, ist die Kultur, aus der Sie stammen, ebenso fremd. Daher ist es wichtig, dass Sie z.B. Fotos von Ihrer Stadt, Ihrem Dorf, Ihrer Familie und der Heimatlandschaft mitbringen, um sie der Familie zu zeigen. Sie sind Botschafter*in Ihrer Kultur und Ihres Landes, kommunizieren Sie daher möglichst viel!",
-            "messageForIncorrectAnswer": "👎 Für die Betriebe, die Praktikanten aufnehme, ist die Kultur, aus der Sie stammen, ebenso fremd. Daher ist es wichtig, dass Sie z.B. Fotos von Ihrer Stadt, Ihrem Dorf, Ihrer Familie und der Heimatlandschaft mitbringen, um sie der Familie zu zeigen. Sie sind Botschafter*in Ihrer Kultur und Ihres Landes, kommunizieren Sie daher möglichst viel!",
-            "explanation": "",
+            "explanation": "Für die Betriebe, die Praktikanten aufnehme, ist die Kultur, aus der Sie stammen, ebenso fremd. Daher ist es wichtig, dass Sie z.B. Fotos von Ihrer Stadt, Ihrem Dorf, Ihrer Familie und der Heimatlandschaft mitbringen, um sie der Familie zu zeigen. Sie sind Botschafter*in Ihrer Kultur und Ihres Landes, kommunizieren Sie daher möglichst viel!",
             "point": "1"
         }
         ,{
@@ -118,9 +104,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusam-menhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
-            "messageForIncorrectAnswer": "👎 Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusam-menhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
-            "explanation": "",
+            "explanation": "Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusamenhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
             "point": "1"
         }
         ,{
@@ -133,9 +117,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Deutschland ist zwar ein christlich geprägtes Land, aber hier leben Menschen mit verschiedensten Religionen. Grundsätzlich herrscht Religionsfreiheit, aber das Prinzip der gegenseitigen Rücksicht-nahme besagt, dass die Ausübung der Religion das Praktikum nicht beeinträchtigen soll. Besonders in den Sommermonaten ist das Einhalten des Ramadans nicht mit der körperlichen Belastung der Arbeit auf dem Feld und im Gewächshaus zu vereinbaren.",
-            "messageForIncorrectAnswer": "👎 Deutschland ist zwar ein christlich geprägtes Land, aber hier leben Menschen mit verschiedensten Religionen. Grundsätzlich herrscht Religionsfreiheit, aber das Prinzip der gegenseitigen Rücksicht-nahme besagt, dass die Ausübung der Religion das Praktikum nicht beeinträchtigen soll. Besonders in den Sommermonaten ist das Einhalten des Ramadans nicht mit der körperlichen Belastung der Arbeit auf dem Feld und im Gewächshaus zu vereinbaren.",
-            "explanation": "",
+            "explanation": "Deutschland ist zwar ein christlich geprägtes Land, aber hier leben Menschen mit verschiedensten Religionen. Grundsätzlich herrscht Religionsfreiheit, aber das Prinzip der gegenseitigen Rücksichtnahme besagt, dass die Ausübung der Religion das Praktikum nicht beeinträchtigen soll. Besonders in den Sommermonaten ist das Einhalten des Ramadans nicht mit der körperlichen Belastung der Arbeit auf dem Feld und im Gewächshaus zu vereinbaren.",
             "point": "1"
         }
         ,{
@@ -148,9 +130,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Die Bereitschaft, vor dem Praktikum und währenddessen ständig an den sprachlichen Kompeten-zen zu arbeiten, ist eine unerlässliche Voraussetzung dafür, bei LOGO e.V. mitzumachen. Das beste Training ist das Gespräch mit der Betriebsleiterfamilie und den Mitarbeitenden, legen Sie das Smartphone während der Arbeit bitte beiseite!",
-            "messageForIncorrectAnswer": "👎 Die Bereitschaft, vor dem Praktikum und währenddessen ständig an den sprachlichen Kompeten-zen zu arbeiten, ist eine unerlässliche Voraussetzung dafür, bei LOGO e.V. mitzumachen. Das beste Training ist das Gespräch mit der Betriebsleiterfamilie und den Mitarbeitenden, legen Sie das Smartphone während der Arbeit bitte beiseite!",
-            "explanation": "",
+            "explanation": "Die Bereitschaft, vor dem Praktikum und währenddessen ständig an den sprachlichen Kompetenzen zu arbeiten, ist eine unerlässliche Voraussetzung dafür, bei LOGO e.V. mitzumachen. Das beste Training ist das Gespräch mit der Betriebsleiterfamilie und den Mitarbeitenden, legen Sie das Smartphone während der Arbeit bitte beiseite!",
             "point": "1"
         }
         ,{
@@ -163,9 +143,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 LOGO e.V. bietet mehrheitlich Praktika in ökologisch wirtschaftenden Betrieben an. Sie haben die einmalige Chance, innovative Methoden in der Tierhaltung und im Pflanzenbau zu lernen, die gut für Umwelt und Menschen sind und gesunde Nahrungsmittel produziert. Der ökologische Landbau wird nach und nach überall auf der Welt an Bedeutung gewinnen. Wenn Sie darin Kompetenzen erwerben, hilft Ihnen dies in Ihrem zukünftigen Berufsleben!",
-            "messageForIncorrectAnswer": "👎 LOGO e.V. bietet mehrheitlich Praktika in ökologisch wirtschaftenden Betrieben an. Sie haben die einmalige Chance, innovative Methoden in der Tierhaltung und im Pflanzenbau zu lernen, die gut für Umwelt und Menschen sind und gesunde Nahrungsmittel produziert. Der ökologische Landbau wird nach und nach überall auf der Welt an Bedeutung gewinnen. Wenn Sie darin Kompetenzen erwerben, hilft Ihnen dies in Ihrem zukünftigen Berufsleben!",
-            "explanation": "",
+            "explanation": "LOGO e.V. bietet mehrheitlich Praktika in ökologisch wirtschaftenden Betrieben an. Sie haben die einmalige Chance, innovative Methoden in der Tierhaltung und im Pflanzenbau zu lernen, die gut für Umwelt und Menschen sind und gesunde Nahrungsmittel produziert. Der ökologische Landbau wird nach und nach überall auf der Welt an Bedeutung gewinnen. Wenn Sie darin Kompetenzen erwerben, hilft Ihnen dies in Ihrem zukünftigen Berufsleben!",
             "point": "1"
         }
         ,{
@@ -178,9 +156,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Kleine Tätigkeiten im Haushalt wie Tisch decken oder abräumen, Wäsche aufhängen oder die Spül-maschine ausräumen gehören zum Praktikum. Die Betriebsleiterfamilie ist Ihr Gastgeber, aber kein Hotel. Eine gegenseitige Unterstützung wird sehr begrüßt!",
-            "messageForIncorrectAnswer": "👎 Kleine Tätigkeiten im Haushalt wie Tisch decken oder abräumen, Wäsche aufhängen oder die Spül-maschine ausräumen gehören zum Praktikum. Die Betriebsleiterfamilie ist Ihr Gastgeber, aber kein Hotel. Eine gegenseitige Unterstützung wird sehr begrüßt!",
-            "explanation": "",
+            "explanation": "Kleine Tätigkeiten im Haushalt wie Tisch decken oder abräumen, Wäsche aufhängen oder die Spülmaschine ausräumen gehören zum Praktikum. Die Betriebsleiterfamilie ist Ihr Gastgeber, aber kein Hotel. Eine gegenseitige Unterstützung wird sehr begrüßt!",
             "point": "1"
         }
         ,{
@@ -193,9 +169,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 In der Regel müssen Sie den Anweisungen des Betriebsleiters folgen. Im Laufe des Praktikums dür-fen Sie auch mit ihm über die Arbeiten sprechen und Verbesserungsvorschläge machen. Auch das Einbringen Ihrer Erfahrungen aus der Heimat ist sehr interessant und erwünscht.",
-            "messageForIncorrectAnswer": "👎 In der Regel müssen Sie den Anweisungen des Betriebsleiters folgen. Im Laufe des Praktikums dür-fen Sie auch mit ihm über die Arbeiten sprechen und Verbesserungsvorschläge machen. Auch das Einbringen Ihrer Erfahrungen aus der Heimat ist sehr interessant und erwünscht.",
-            "explanation": "",
+            "explanation": "In der Regel müssen Sie den Anweisungen des Betriebsleiters folgen. Im Laufe des Praktikums dürfen Sie auch mit ihm über die Arbeiten sprechen und Verbesserungsvorschläge machen. Auch das Einbringen Ihrer Erfahrungen aus der Heimat ist sehr interessant und erwünscht.",
             "point": "1"
         }
         ,{
@@ -208,9 +182,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 In Deutschland herrscht Gleichberechtigung, auch Frauen sind oft Chefinnen und dürfen Arbeits-anweisungen geben. Bitte verhalten Sie sich wertschätzend gegenüber Frauen und nehmen Ar-beitsanweisungen ebenso wie von Männern entgegen.",
-            "messageForIncorrectAnswer": "👎 In Deutschland herrscht Gleichberechtigung, auch Frauen sind oft Chefinnen und dürfen Arbeits-anweisungen geben. Bitte verhalten Sie sich wertschätzend gegenüber Frauen und nehmen Ar-beitsanweisungen ebenso wie von Männern entgegen.",
-            "explanation": "",
+            "explanation": "In Deutschland herrscht Gleichberechtigung, auch Frauen sind oft Chefinnen und dürfen Arbeitsanweisungen geben. Bitte verhalten Sie sich wertschätzend gegenüber Frauen und nehmen Arbeitsanweisungen ebenso wie von Männern entgegen.",
             "point": "1"
         }
         ,{
@@ -223,9 +195,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Jeder Mensch lernt anders. Die Gehirnforschung bestätigt aber, dass das, was wir handschriftlich notieren und dokumentieren, am besten in Erinnerung bleibt. Daher ist das regelmäßige Führen des Berichtsheftes von zentraler Bedeutung.",
-            "messageForIncorrectAnswer": "👎 Jeder Mensch lernt anders. Die Gehirnforschung bestätigt aber, dass das, was wir handschriftlich notieren und dokumentieren, am besten in Erinnerung bleibt. Daher ist das regelmäßige Führen des Berichtsheftes von zentraler Bedeutung.",
-            "explanation": "",
+            "explanation": "Jeder Mensch lernt anders. Die Gehirnforschung bestätigt aber, dass das, was wir handschriftlich notieren und dokumentieren, am besten in Erinnerung bleibt. Daher ist das regelmäßige Führen des Berichtsheftes von zentraler Bedeutung.",
             "point": "1"
         }
         ,{
@@ -238,9 +208,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Eine rein theoretische Ausbildung reicht nicht aus, um später im Berufsleben praxisorientiert und korrekte Entscheidungen treffen zu können. Viele Dinge sehen in der Praxis ganz anders aus als in der Theorie – ein Abgleich ist unerlässlich. Diese Gelegenheit bietet ein LOGO-Praktikum!",
-            "messageForIncorrectAnswer": "👎 Eine rein theoretische Ausbildung reicht nicht aus, um später im Berufsleben praxisorientiert und korrekte Entscheidungen treffen zu können. Viele Dinge sehen in der Praxis ganz anders aus als in der Theorie – ein Abgleich ist unerlässlich. Diese Gelegenheit bietet ein LOGO-Praktikum!",
-            "explanation": "",
+            "explanation": "Eine rein theoretische Ausbildung reicht nicht aus, um später im Berufsleben praxisorientiert und korrekte Entscheidungen treffen zu können. Viele Dinge sehen in der Praxis ganz anders aus als in der Theorie – ein Abgleich ist unerlässlich. Diese Gelegenheit bietet ein LOGO-Praktikum!",
             "point": "1"
         }
         ,{
@@ -253,9 +221,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Lebenslanges Lernen – das ist ein wichtiges Motto der deutschen Bildungslandschaft! Wer im Beruf erfolgreich sein will und wer auch langfristig Freude an seinem Beruf haben will, der muss bereit sein, immer wieder Neues hinzu zu lernen. Besonders für junge Menschen wie unsere LOGO-Praktikanten sollte die Lernbereitschaft selbstverständlich sein.",
-            "messageForIncorrectAnswer": "👎 Lebenslanges Lernen – das ist ein wichtiges Motto der deutschen Bildungslandschaft! Wer im Beruf erfolgreich sein will und wer auch langfristig Freude an seinem Beruf haben will, der muss bereit sein, immer wieder Neues hinzu zu lernen. Besonders für junge Menschen wie unsere LOGO-Praktikanten sollte die Lernbereitschaft selbstverständlich sein.",
-            "explanation": "",
+            "explanation": "Lebenslanges Lernen – das ist ein wichtiges Motto der deutschen Bildungslandschaft! Wer im Beruf erfolgreich sein will und wer auch langfristig Freude an seinem Beruf haben will, der muss bereit sein, immer wieder Neues hinzu zu lernen. Besonders für junge Menschen wie unsere LOGO-Praktikanten sollte die Lernbereitschaft selbstverständlich sein.",
             "point": "1"
         }
         ,{
@@ -268,9 +234,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Im ökologischen Landbau wird eher mit kleineren und Spezialmaschinen gearbeitet. Ebenso spielt die Handarbeit eine größere Rolle. Große und schwere Maschinen verdichten den Boden und sind schlecht für das Bodenleben.",
-            "messageForIncorrectAnswer": "👎 Im ökologischen Landbau wird eher mit kleineren und Spezialmaschinen gearbeitet. Ebenso spielt die Handarbeit eine größere Rolle. Große und schwere Maschinen verdichten den Boden und sind schlecht für das Bodenleben.",
-            "explanation": "",
+            "explanation": "Im ökologischen Landbau wird eher mit kleineren und Spezialmaschinen gearbeitet. Ebenso spielt die Handarbeit eine größere Rolle. Große und schwere Maschinen verdichten den Boden und sind schlecht für das Bodenleben.",
             "point": "1"
         }
         ,{
@@ -283,9 +247,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Es gehört zum Praktikum, die zur Verfügung gestellten Räumlichkeiten (Zimmer, Bad, ggf. Küche) selber regelmäßig sauber zu halten. Denken Sie daran: Sie sind Botschafter Ihres Landes!",
-            "messageForIncorrectAnswer": "👎 Es gehört zum Praktikum, die zur Verfügung gestellten Räumlichkeiten (Zimmer, Bad, ggf. Küche) selber regelmäßig sauber zu halten. Denken Sie daran: Sie sind Botschafter Ihres Landes!",
-            "explanation": "",
+            "explanation": "Es gehört zum Praktikum, die zur Verfügung gestellten Räumlichkeiten (Zimmer, Bad, ggf. Küche) selber regelmäßig sauber zu halten. Denken Sie daran: Sie sind Botschafter Ihres Landes!",
             "point": "1"
         }
         ,{
@@ -298,9 +260,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Ob es einem Menschen gut geht, hängt nicht nur von seiner Umgebung und seinen Mitmenschen ab. Wenn Sie selber offen und freundlich auf Ihre Gastfamilie zugehen, so ist auch zu erwarten, dass diese sich Ihnen gegenüber freundlich verhält. Wenn Sie ein Problem haben, sprechen Sie die-ses möglichst höflich und wertschätzende, aber direkt an.  ",
-            "messageForIncorrectAnswer": "👎 Ob es einem Menschen gut geht, hängt nicht nur von seiner Umgebung und seinen Mitmenschen ab. Wenn Sie selber offen und freundlich auf Ihre Gastfamilie zugehen, so ist auch zu erwarten, dass diese sich Ihnen gegenüber freundlich verhält. Wenn Sie ein Problem haben, sprechen Sie die-ses möglichst höflich und wertschätzende, aber direkt an.  ",
-            "explanation": "",
+            "explanation": "Ob es einem Menschen gut geht, hängt nicht nur von seiner Umgebung und seinen Mitmenschen ab. Wenn Sie selber offen und freundlich auf Ihre Gastfamilie zugehen, so ist auch zu erwarten, dass diese sich Ihnen gegenüber freundlich verhält. Wenn Sie ein Problem haben, sprechen Sie dieses möglichst höflich und wertschätzende, aber direkt an. ",
             "point": "1"
         }
         ,{
@@ -313,8 +273,6 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Methoden des ökologischen Landbaues sind vielfältig und werden in der Praxis und der Wissen-schaft ständig weiterentwickelt. Wenn Sie nicht mit offenen Augen und mit wachen Sinnen in das Praktikum gehen, werden Sie nichts Neues lernen. Die Zusammenhänge erkennt man manchmal erst nach vielen Wochen!",
-            "messageForIncorrectAnswer": "👎 Methoden des ökologischen Landbaues sind vielfältig und werden in der Praxis und der Wissen-schaft ständig weiterentwickelt. Wenn Sie nicht mit offenen Augen und mit wachen Sinnen in das Praktikum gehen, werden Sie nichts Neues lernen. Die Zusammenhänge erkennt man manchmal erst nach vielen Wochen!",
             "explanation": "",
             "point": "1"
         }
@@ -328,9 +286,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Fragen zu stellen ist in Deutschland ein Zeichen von Interesse und Lernwilligkeit. Niemand erwartet von Ihnen, dass Sie alles bereits können. Aber es wird erwartet, dass Sie offen sind für Neues und gerne neue Arbeiten und Zusammenhänge erlernen. Fragen zu stellen gehört dazu. Wenn Sie et-was nicht verstanden haben, fragen Sie bitte immer nach!",
-            "messageForIncorrectAnswer": "👎 Fragen zu stellen ist in Deutschland ein Zeichen von Interesse und Lernwilligkeit. Niemand erwartet von Ihnen, dass Sie alles bereits können. Aber es wird erwartet, dass Sie offen sind für Neues und gerne neue Arbeiten und Zusammenhänge erlernen. Fragen zu stellen gehört dazu. Wenn Sie et-was nicht verstanden haben, fragen Sie bitte immer nach!",
-            "explanation": "",
+            "explanation": "Fragen zu stellen ist in Deutschland ein Zeichen von Interesse und Lernwilligkeit. Niemand erwartet von Ihnen, dass Sie alles bereits können. Aber es wird erwartet, dass Sie offen sind für Neues und gerne neue Arbeiten und Zusammenhänge erlernen. Fragen zu stellen gehört dazu. Wenn Sie ewas nicht verstanden haben, fragen Sie bitte immer nach!",
             "point": "1"
         }
         ,{
@@ -343,9 +299,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Niemand erwartet von Ihnen perfekte Deutschkenntnisse, aber es müssen gute Grundkenntnisse vorhanden sein. Konzentrieren Sie sich beim Deutschlernen auf die Kommunikation und auf land-wirtschaftliche Fachbegiffe, dann fällt Ihnen und dem Betrieb der Start leichter. Fachliches Lernen ist nur bei ausreichenden Sprachkenntnissen möglich!",
-            "messageForIncorrectAnswer": "👎 Niemand erwartet von Ihnen perfekte Deutschkenntnisse, aber es müssen gute Grundkenntnisse vorhanden sein. Konzentrieren Sie sich beim Deutschlernen auf die Kommunikation und auf land-wirtschaftliche Fachbegiffe, dann fällt Ihnen und dem Betrieb der Start leichter. Fachliches Lernen ist nur bei ausreichenden Sprachkenntnissen möglich!",
-            "explanation": "",
+            "explanation": "Niemand erwartet von Ihnen perfekte Deutschkenntnisse, aber es müssen gute Grundkenntnisse vorhanden sein. Konzentrieren Sie sich beim Deutschlernen auf die Kommunikation und auf landwirtschaftliche Fachbegiffe, dann fällt Ihnen und dem Betrieb der Start leichter. Fachliches Lernen ist nur bei ausreichenden Sprachkenntnissen möglich!",
             "point": "1"
         }   
         ,{
@@ -358,9 +312,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Der Vertrag zwischen LOGO e.V., dem Betrieb und Ihnen regelt die wichtigsten Rechten und Pflich-ten der Vertragspartner. Viele Studenten lesen leider nur ihre Rechte und vergessen, dass sie auch Pflichten eingegangen sind. Bitte lesen Sie den Vertrag genau durch!",
-            "messageForIncorrectAnswer": "👎 Der Vertrag zwischen LOGO e.V., dem Betrieb und Ihnen regelt die wichtigsten Rechten und Pflich-ten der Vertragspartner. Viele Studenten lesen leider nur ihre Rechte und vergessen, dass sie auch Pflichten eingegangen sind. Bitte lesen Sie den Vertrag genau durch!",
-            "explanation": "",
+            "explanation": "Der Vertrag zwischen LOGO e.V., dem Betrieb und Ihnen regelt die wichtigsten Rechten und Pflichten der Vertragspartner. Viele Studenten lesen leider nur ihre Rechte und vergessen, dass sie auch Pflichten eingegangen sind. Bitte lesen Sie den Vertrag genau durch!",
             "point": "1"
         }
         ,{
@@ -373,9 +325,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 An der Universität lernen Sie viel Theorie, die Sie im Berufsleben mit der Praxis verbinden müssen. Ein Praktikum in der Landwirtschaft macht für Sie nur dann Sinn, wenn Sie gerne praktisch mit Tieren und/oder Pflanzen arbeiten möchten.",
-            "messageForIncorrectAnswer": "👎 An der Universität lernen Sie viel Theorie, die Sie im Berufsleben mit der Praxis verbinden müssen. Ein Praktikum in der Landwirtschaft macht für Sie nur dann Sinn, wenn Sie gerne praktisch mit Tieren und/oder Pflanzen arbeiten möchten.",
-            "explanation": "",
+            "explanation": "An der Universität lernen Sie viel Theorie, die Sie im Berufsleben mit der Praxis verbinden müssen. Ein Praktikum in der Landwirtschaft macht für Sie nur dann Sinn, wenn Sie gerne praktisch mit Tieren und/oder Pflanzen arbeiten möchten.",
             "point": "1"
         }
         ,{
@@ -388,9 +338,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Wenn ein Problem auftaucht, sollten Sie zunächst analysieren, was der Grund dafür ist. Nicht immer liegt die Ursache am Gegenüber, vielleicht haben Sie auch selber falsche Erwartungen gehabt. Ein Problem sollte immer höflich angesprochen und dadurch die Situation verbessert werden. Manch-mal bedeutet das auch, an sich selber zu arbeiten und seinen eigenen Teil zur Problemlösung beizu-steuern.",
-            "messageForIncorrectAnswer": "👎 Wenn ein Problem auftaucht, sollten Sie zunächst analysieren, was der Grund dafür ist. Nicht immer liegt die Ursache am Gegenüber, vielleicht haben Sie auch selber falsche Erwartungen gehabt. Ein Problem sollte immer höflich angesprochen und dadurch die Situation verbessert werden. Manch-mal bedeutet das auch, an sich selber zu arbeiten und seinen eigenen Teil zur Problemlösung beizu-steuern.",
-            "explanation": "",
+            "explanation": "Wenn ein Problem auftaucht, sollten Sie zunächst analysieren, was der Grund dafür ist. Nicht immer liegt die Ursache am Gegenüber, vielleicht haben Sie auch selber falsche Erwartungen gehabt. Ein Problem sollte immer höflich angesprochen und dadurch die Situation verbessert werden. Manchmal bedeutet das auch, an sich selber zu arbeiten und seinen eigenen Teil zur Problemlösung beizu-steuern.",
             "point": "1"
         }
         ,{
@@ -403,9 +351,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Ein Praktikum weit ab von der eigenen Familie und Kultur ist zunächst einmal gewöhnungsbedürftig. Es braucht ein wenig Zeit, sich einzuleben und die vielen neuen Dinge zu verstehen. Wer jedoch gar kein Interesse an einer anderen Kultur und Menschen aus diesem Kulturkreis hat, der sollte kein Praktikum im Ausland machen.",
-            "messageForIncorrectAnswer": "👎 Ein Praktikum weit ab von der eigenen Familie und Kultur ist zunächst einmal gewöhnungsbedürftig. Es braucht ein wenig Zeit, sich einzuleben und die vielen neuen Dinge zu verstehen. Wer jedoch gar kein Interesse an einer anderen Kultur und Menschen aus diesem Kulturkreis hat, der sollte kein Praktikum im Ausland machen.",
-            "explanation": "",
+            "explanation": "Ein Praktikum weit ab von der eigenen Familie und Kultur ist zunächst einmal gewöhnungsbedürftig. Es braucht ein wenig Zeit, sich einzuleben und die vielen neuen Dinge zu verstehen. Wer jedoch gar kein Interesse an einer anderen Kultur und Menschen aus diesem Kulturkreis hat, der sollte kein Praktikum im Ausland machen.",
             "point": "1"
         }
         ,{
@@ -418,9 +364,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Deutschland ist ein Land, in dem Staat und Religion streng getrennt sind. Im Praktikum sollte die jeweilige Religion keine übergeordnete Rolle spielen. Das fachliche Lernen im ökologischen Landbau ist das zentrale Ziel des Praktikums. Wem seine Religion so wichtig ist, dass er sie über alles andere stellt, der sollte kein Praktikum in Deutschland machen.",
-            "messageForIncorrectAnswer": "👎 Deutschland ist ein Land, in dem Staat und Religion streng getrennt sind. Im Praktikum sollte die jeweilige Religion keine übergeordnete Rolle spielen. Das fachliche Lernen im ökologischen Landbau ist das zentrale Ziel des Praktikums. Wem seine Religion so wichtig ist, dass er sie über alles andere stellt, der sollte kein Praktikum in Deutschland machen.",
-            "explanation": "",
+            "explanation": "Deutschland ist ein Land, in dem Staat und Religion streng getrennt sind. Im Praktikum sollte die jeweilige Religion keine übergeordnete Rolle spielen. Das fachliche Lernen im ökologischen Landbau ist das zentrale Ziel des Praktikums. Wem seine Religion so wichtig ist, dass er sie über alles andere stellt, der sollte kein Praktikum in Deutschland machen.",
             "point": "1"
         }
         ,{
@@ -433,9 +377,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Zunächst einmal ist der Betriebsleiter weisungsbefugt – das bedeutet, dass Sie den Anweisungen Folge leisten müssen. Natürlich dürfen Sie mit dem Chef über Arbeitsabläufe sprechen und selber Verbesserungsvorschläge machen. ",
-            "messageForIncorrectAnswer": "👎 Zunächst einmal ist der Betriebsleiter weisungsbefugt – das bedeutet, dass Sie den Anweisungen Folge leisten müssen. Natürlich dürfen Sie mit dem Chef über Arbeitsabläufe sprechen und selber Verbesserungsvorschläge machen. ",
-            "explanation": "",
+            "explanation": "Zunächst einmal ist der Betriebsleiter weisungsbefugt – das bedeutet, dass Sie den Anweisungen Folge leisten müssen. Natürlich dürfen Sie mit dem Chef über Arbeitsabläufe sprechen und selber Verbesserungsvorschläge machen.",
             "point": "1"
         }
         ,{
@@ -448,9 +390,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Die Bereitschaft, Verantwortung für einen Arbeitsbereich zu übernehmen, gehört zum Berufsleben eines Menschen mit Hochschul-Ausbildung. Zudem lernt man am meisten durch konkrete Erfah-rung. Nur wenn Sie Bereitschaft zeigen, eigenverantwortlich zu arbeiten, ist ein landwirtschaftliches Praktikum geeignet für Sie. ",
-            "messageForIncorrectAnswer": "👎 Die Bereitschaft, Verantwortung für einen Arbeitsbereich zu übernehmen, gehört zum Berufsleben eines Menschen mit Hochschul-Ausbildung. Zudem lernt man am meisten durch konkrete Erfah-rung. Nur wenn Sie Bereitschaft zeigen, eigenverantwortlich zu arbeiten, ist ein landwirtschaftliches Praktikum geeignet für Sie. ",
-            "explanation": "",
+            "explanation": "Die Bereitschaft, Verantwortung für einen Arbeitsbereich zu übernehmen, gehört zum Berufsleben eines Menschen mit Hochschul-Ausbildung. Zudem lernt man am meisten durch konkrete Erfahrung. Nur wenn Sie Bereitschaft zeigen, eigenverantwortlich zu arbeiten, ist ein landwirtschaftliches Praktikum geeignet für Sie.",
             "point": "1"
         }
         ,{
@@ -463,9 +403,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Ein landwirtschaftliches Praktikum ist keine Büro- oder Laborarbeit! Je nachdem, in welche Art Be-trieb Sie kommen, werden Sie mit den Händen auch schmutzige Arbeiten machen müssen, z.B. Jungpflanzen setzen, Tiere ausmisten, Maschinen reparieren. Nur wenn Sie sich das vorstellen kön-nen, ist ein LOGO-Praktikum geeignet für Sie.",
-            "messageForIncorrectAnswer": "👎 Ein landwirtschaftliches Praktikum ist keine Büro- oder Laborarbeit! Je nachdem, in welche Art Be-trieb Sie kommen, werden Sie mit den Händen auch schmutzige Arbeiten machen müssen, z.B. Jungpflanzen setzen, Tiere ausmisten, Maschinen reparieren. Nur wenn Sie sich das vorstellen kön-nen, ist ein LOGO-Praktikum geeignet für Sie.",
-            "explanation": "",
+            "explanation": "Ein landwirtschaftliches Praktikum ist keine Büro- oder Laborarbeit! Je nachdem, in welche Art Betrieb Sie kommen, werden Sie mit den Händen auch schmutzige Arbeiten machen müssen, z.B. Jungpflanzen setzen, Tiere ausmisten, Maschinen reparieren. Nur wenn Sie sich das vorstellen können, ist ein LOGO-Praktikum geeignet für Sie.",
             "point": "1"
         }
         ,{
@@ -478,9 +416,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 LOGO e.V. ist kein Reiseveranstalter! Wir möchten Wissen zum ökologischen Landbau weitergeben und jungen Menschen eine interkulturelle Erfahrung ermöglichen. Die Verständigung Ost-West steht dabei im Mittelpunkt. Die praktische Erfahrung soll ein wichtiger Teil Ihres Studiums sein, Ihre Persönlichkeit weiterentwickeln und Ihren weiteren beruflichen Werdegang befördern.",
-            "messageForIncorrectAnswer": "👎 LOGO e.V. ist kein Reiseveranstalter! Wir möchten Wissen zum ökologischen Landbau weitergeben und jungen Menschen eine interkulturelle Erfahrung ermöglichen. Die Verständigung Ost-West steht dabei im Mittelpunkt. Die praktische Erfahrung soll ein wichtiger Teil Ihres Studiums sein, Ihre Persönlichkeit weiterentwickeln und Ihren weiteren beruflichen Werdegang befördern.",
-            "explanation": "",
+            "explanation": "LOGO e.V. ist kein Reiseveranstalter! Wir möchten Wissen zum ökologischen Landbau weitergeben und jungen Menschen eine interkulturelle Erfahrung ermöglichen. Die Verständigung Ost-West steht dabei im Mittelpunkt. Die praktische Erfahrung soll ein wichtiger Teil Ihres Studiums sein, Ihre Persönlichkeit weiterentwickeln und Ihren weiteren beruflichen Werdegang befördern.",
             "point": "1"
         }
         ,{
@@ -493,9 +429,7 @@
                 "NEIN"
             ],
             "correctAnswer": "2",
-            "messageForCorrectAnswer": "👍 Ein Smartphone gehört heutzutage zum Leben und erleichtert vieles. So konnten noch vor 10-15 Jahren die LOGO-Praktikanten nur sehr selten und kurz zuhause anrufen. Aber ein Smartphone sollte im Praktikum nicht zu viel genutzt werden, denn dann hindert es Sie daran, sich auf die neue Situation einzulassen und die andere Sprache und Kultur kennen zu lernen. Daher: Während der Arbeitszeiten sollte das Smartphone nicht dabei sein!",
-            "messageForIncorrectAnswer": "👎 Ein Smartphone gehört heutzutage zum Leben und erleichtert vieles. So konnten noch vor 10-15 Jahren die LOGO-Praktikanten nur sehr selten und kurz zuhause anrufen. Aber ein Smartphone sollte im Praktikum nicht zu viel genutzt werden, denn dann hindert es Sie daran, sich auf die neue Situation einzulassen und die andere Sprache und Kultur kennen zu lernen. Daher: Während der Arbeitszeiten sollte das Smartphone nicht dabei sein!",
-            "explanation": "",
+            "explanation": "Ein Smartphone gehört heutzutage zum Leben und erleichtert vieles. So konnten noch vor 10-15 Jahren die LOGO-Praktikanten nur sehr selten und kurz zuhause anrufen. Aber ein Smartphone sollte im Praktikum nicht zu viel genutzt werden, denn dann hindert es Sie daran, sich auf die neue Situation einzulassen und die andere Sprache und Kultur kennen zu lernen. Daher: Während der Arbeitszeiten sollte das Smartphone nicht dabei sein!",
             "point": "1"
         }
         ,{
@@ -508,9 +442,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Auch für Studenten, die im späteren Berufsleben keine praktische Landwirtschaft betreiben möchten, kann ein LOGO-Praktikum sehr sinnvoll sein. Bitte überlegen Sie vorher aber genau, was Sie von Ihrer Zeit in Deutschland erwarten. Wo bietet ein landwirtschaftlicher Betrieb Anknüpfungspunkte für Ihre beruflichen Pläne? Diskutieren Sie dies vor der Vermittlung in einen konkreten Betrieb mit LOGO!",
-            "messageForIncorrectAnswer": "👎 Auch für Studenten, die im späteren Berufsleben keine praktische Landwirtschaft betreiben möchten, kann ein LOGO-Praktikum sehr sinnvoll sein. Bitte überlegen Sie vorher aber genau, was Sie von Ihrer Zeit in Deutschland erwarten. Wo bietet ein landwirtschaftlicher Betrieb Anknüpfungspunkte für Ihre beruflichen Pläne? Diskutieren Sie dies vor der Vermittlung in einen konkreten Betrieb mit LOGO!",
-            "explanation": "",
+            "explanation": "Auch für Studenten, die im späteren Berufsleben keine praktische Landwirtschaft betreiben möchten, kann ein LOGO-Praktikum sehr sinnvoll sein. Bitte überlegen Sie vorher aber genau, was Sie von Ihrer Zeit in Deutschland erwarten. Wo bietet ein landwirtschaftlicher Betrieb Anknüpfungspunkte für Ihre beruflichen Pläne? Diskutieren Sie dies vor der Vermittlung in einen konkreten Betrieb mit LOGO!",
             "point": "1"
         }
         ,{
@@ -523,9 +455,7 @@
                 "NEIN"
             ],
             "correctAnswer": "1",
-            "messageForCorrectAnswer": "👍 Während eines LOGO-Praktikums müssen Sie ein Berichtsheft führen. Darin notieren Sie in Wo-chen- und Sachberichten über Ihre Arbeiten im Betrieb und über bestimmte für Sie besonders inte-ressante Themen. Das Berichtsheft wird am Praktikumsende benotet und geht in Ihr Praktikumsze-ugnis ein.",
-            "messageForIncorrectAnswer": "👎 Während eines LOGO-Praktikums müssen Sie ein Berichtsheft führen. Darin notieren Sie in Wo-chen- und Sachberichten über Ihre Arbeiten im Betrieb und über bestimmte für Sie besonders inte-ressante Themen. Das Berichtsheft wird am Praktikumsende benotet und geht in Ihr Praktikumsze-ugnis ein.",
-            "explanation": "",
+            "explanation": "Während eines LOGO-Praktikums müssen Sie ein Berichtsheft führen. Darin notieren Sie in Wochen- und Sachberichten über Ihre Arbeiten im Betrieb und über bestimmte für Sie besonders interessante Themen. Das Berichtsheft wird am Praktikumsende benotet und geht in Ihr Praktikumszeugnis ein.",
             "point": "1"
         }    
     ],
