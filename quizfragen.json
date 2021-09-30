@@ -1,473 +1,473 @@
 {
-    "quizTitle": "Eignungstest für ein LOGO-Praktikum",
-    "quizSynopsis": "Bitte ehrlich beantworten! Den Test machen Sie nur für sich alleine - LOGO e.V. hat keinen Einblick in ihre Antworten.",
+    "quizTitle": "Тест - проверка на пригодность к практике LOGO",
+    "quizSynopsis": "Пожалуйста, отвечайте честно! Союз LOGO не имеет доступа к вашим ответам. Вы проходите тест только для себя и только у вас есть доступ к вашим результатам.",
     "questions": [
         {
-            "question": "Ich arbeite gerne körperlich",
+            "question": "Согласны ли вы с этим утверждением?",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Ein landwirtschaftliches Fachpraktikum bedeutet, im Mittel 40 Stunden pro Woche (= durchschnittlich 8 Stunden am Tag) körperliche Arbeit. Das setzt ein gewisses Maß an körperlicher Fitness voraus und ein Interesse an den verschiedenen notwendigen Arbeiten.",
+            "explanation": "Сельскохозяйственная практикa подразумевает 40 часов физической работы в неделю (= в среднем 8 часов в день). Это требует определенного уровня физической подготовки и интереса к выполнению различных необходимых задач.",
             "point": "1"
         },
         {
-            "question": "Geld verdienen ist wichtiger als Bildung und Lernen",
+            "question": "Зарабатывать деньги важнее, чем получать образование и учиться.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Im LOGO-Praktikum liegt der Schwerpunkt auf dem Erlernen der Methoden des ökologischen Landbaues. Deutsche Praktikanten verdienen oftmals gar kein Geld im Praktikum. LOGO-Praktikanten, die sehr interessiert und fleißig sind, können vom Betrieb einen Bonus in Form von zusätzlicher Freizeit oder etwas mehr Geld erhalten.",
+            "explanation": "В рамках практики LOGO основное внимание уделяется изучению методов органического сельского хозяйства. Немецкие практиканты часто вообще ничего не зарабатывают во время практики. Практиканты LOGO, проявляющие большой интерес и трудолюбие, могут получить бонус от фермы в виде дополнительного свободного времени или некоторой дополнительной суммы денег.",
             "point": "1"
         },
         {
-            "question": "Praktische Berufserfahrung ist wichtig für den Lebensweg",
+            "question": "Практический опыт работы важен для жизненного пути.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Egal, wo Sie später arbeiten – in der Praxis, in Behörden, in der Forschung – es ist von zentraler Bedeutung, auch praktische Berufserfahrung zu sammeln, um später seine beruflichen Aufgaben gut und fachlich korrekt ausführen zu können.",
+            "explanation": "Независимо от того, где вы будете работать в дальнейшем - на практике, в органах государственной власти, в научных исследованиях - крайне важно также получить практический опыт работы, чтобы в дальнейшем хорошо и профессионально правильно выполнять свои профессиональные задачи.",
             "point": "1"
         }
         ,
         {
-            "question": "Ich interessiere mich für die deutsche Kultur",
+            "question": "Я интересуюсь немецкой культурой.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Ein 6-monatiges Praktikum in einem anderen Land kann nur dann gut laufen, wenn du dich auf die für die vielleicht fremde Kultur einlässt und versuchst, dich daran anzupassen. Gegenseitiges Interesse füreinander ist natürlich besonders wichtig.",
+            "explanation": "6-месячная практика в другой стране может пройти успешно только в том случае, если вы вникнете в культуру, которая может быть для вас чужой, и постараетесь адаптироваться к ней. Взаимный интерес друг к культуре особенно важен. ",
             "point": "1"
         }
         ,{
-            "question": "Ein Praktikum bedeutet: Lernen durch Zuschauen",
+            "question": "Практика означает: учиться, наблюдая всё вокруг.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusammenhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
+            "explanation": "На практике LOGO вы будете учиться, выполняя работу самостоятельно. Постепенно, если вы будете внимательны, вы поймете важность отдельных этапов работы и осознаете связи в общей работе. ",
             "point": "1"
         }
         ,{
-            "question": "Sprachkenntnisse sind für das Praktikum sehr wichtig",
+            "question": "Знание языка очень важно для прохождения практики.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Auch in Zeiten von Smartphone und Übersetzer: das Erlernen der deutschen Sprache ist für den Erfolg des Praktikums von zentraler Bedeutung! Wichtig ist deshalb eine regelmäßige Teilnahme an den vorbereitenden Sprachkursen und im Praktikum eine häufige mündliche Kommunikation mit der Betriebsleiterfamilie und den Mitarbeitenden.",
+            "explanation": "Даже во времена смартфонов и переводчиков: изучение немецкого языка имеет огромное значение для успеха практики! Поэтому важно регулярное участие в подготовительных языковых курсах и частое устное общение с семьей руководителя фермы и работниками во время практики.",
             "point": "1"
         }
         ,{
-            "question": "Im Ausland bin ich Repräsentant meines Heimatlandes",
+            "question": "За границей я являюсь представителем своей страны.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Für die Betriebe, die Praktikanten aufnehme, ist die Kultur, aus der Sie stammen, ebenso fremd. Daher ist es wichtig, dass Sie z.B. Fotos von Ihrer Stadt, Ihrem Dorf, Ihrer Familie und der Heimatlandschaft mitbringen, um sie der Familie zu zeigen. Sie sind Botschafter*in Ihrer Kultur und Ihres Landes, kommunizieren Sie daher möglichst viel!",
+            "explanation": "Для предприятий, которые принимают практикантов, культура, из которой вы пришли, является такой же чужой. Поэтому важно, чтобы вы принесли с собой фотографии вашего города, села, семьи, домашнего пейзажа. Вы являетесь послом своей культуры и своей страны, поэтому общайтесь как можно больше!",
             "point": "1"
         }
         ,{
-            "question": "Ein Praktikum bedeutet: Lernen durch Mitmachen und Mitdenken",
+            "question": "Практика означает: учиться, участвуя и думая вместе с другими.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Im LOGO-Praktikum wirst du lernen, indem du die Arbeiten selber ausführst. Nach und nach wirst du, wenn du aufmerksam bist, die Bedeutung einzelner Arbeitsschritte erlernen und die Zusamenhänge im Gesamtbetrieb erkennen. Dann ist ein wichtiges Ziel des Praktikums erreicht.",
+            "explanation": "На практике LOGO вы будете учиться, выполняя работу самостоятельно. Постепенно, если вы будете внимательны, вы поймете важность отдельных этапов работы и осознаете связи в общей работе.",
             "point": "1"
         }
         ,{
-            "question": "Meine Gastfamilie muss auf meine Religion Rücksicht nehmen",
+            "question": "Моя принимающая семья должна с пониманием относиться к моей религии.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Deutschland ist zwar ein christlich geprägtes Land, aber hier leben Menschen mit verschiedensten Religionen. Grundsätzlich herrscht Religionsfreiheit, aber das Prinzip der gegenseitigen Rücksichtnahme besagt, dass die Ausübung der Religion das Praktikum nicht beeinträchtigen soll. Besonders in den Sommermonaten ist das Einhalten des Ramadans nicht mit der körperlichen Belastung der Arbeit auf dem Feld und im Gewächshaus zu vereinbaren.",
+            "explanation": "Германия - христианская страна, но здесь живут люди разных религий. В принципе, существует свобода вероисповедания, но принцип взаимного учета гласит, что исполнение религиозных обрядов не должно мешать практике. Особенно в летние месяцы соблюдение Рамадана несовместимо с физическим напряжением, связанным с работой на полях и в теплицах.",
             "point": "1"
         }
         ,{
-            "question": "Ich bin bereit, meine Sprachkenntnisse zu verbessern",
+            "question": "Я готов совершенствовать свои языковые навыки.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Die Bereitschaft, vor dem Praktikum und währenddessen ständig an den sprachlichen Kompetenzen zu arbeiten, ist eine unerlässliche Voraussetzung dafür, bei LOGO e.V. mitzumachen. Das beste Training ist das Gespräch mit der Betriebsleiterfamilie und den Mitarbeitenden, legen Sie das Smartphone während der Arbeit bitte beiseite!",
+            "explanation": "Готовность постоянно работать над языковыми навыками до начала стажировки и во время нее является обязательным условием для поступления на практику в LOGO e.V. Лучшее обучение - это общение с семьей управляющего фермой и персоналом. Луче отложить свой смартфон в сторону во время работы и усилено общатся на немецком",
             "point": "1"
         }
         ,{
-            "question": "Ich interessiere mich für umweltschonende Methoden",
+            "question": "Я заинтересован в экологически чистых методах.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "LOGO e.V. bietet mehrheitlich Praktika in ökologisch wirtschaftenden Betrieben an. Sie haben die einmalige Chance, innovative Methoden in der Tierhaltung und im Pflanzenbau zu lernen, die gut für Umwelt und Menschen sind und gesunde Nahrungsmittel produziert. Der ökologische Landbau wird nach und nach überall auf der Welt an Bedeutung gewinnen. Wenn Sie darin Kompetenzen erwerben, hilft Ihnen dies in Ihrem zukünftigen Berufsleben!",
+            "explanation": "Союз LOGO предлагает практики в основном на органических фермах. У вас есть уникальная возможность изучить инновационные методы в животноводстве и растениеводстве, которые полезны для окружающей среды и людей и производят здоровую пищу. Органическое земледелие постепенно приобретает все большее значение во всем мире. Приобретение навыков в ней поможет вам в вашей будущей профессиональной жизни!",
             "point": "1"
         }
         ,{
-            "question": "Es gehört zum Praktikum, auch mal den Tisch zu decken",
+            "question": "Иногда накрывать на стол - это часть практики.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Kleine Tätigkeiten im Haushalt wie Tisch decken oder abräumen, Wäsche aufhängen oder die Spülmaschine ausräumen gehören zum Praktikum. Die Betriebsleiterfamilie ist Ihr Gastgeber, aber kein Hotel. Eine gegenseitige Unterstützung wird sehr begrüßt!",
+            "explanation": "Небольшие домашние дела, такие как накрывание или уборка стола, развешивание белья или уборка посудомоечной машины, являются частью практики. Семья управляющего фермой является вашим шефом, но не гостиницей. Взаимная поддержка очень ценится!",
             "point": "1"
         }
         ,{
-            "question": "Was mein Chef sagt, ist immer richtig!",
+            "question": "То, что говорит мой шеф, всегда правильно!",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "In der Regel müssen Sie den Anweisungen des Betriebsleiters folgen. Im Laufe des Praktikums dürfen Sie auch mit ihm über die Arbeiten sprechen und Verbesserungsvorschläge machen. Auch das Einbringen Ihrer Erfahrungen aus der Heimat ist sehr interessant und erwünscht.",
+            "explanation": "Как правило, вы должны следовать указаниям руководителя предприятия. В ходе практики вам также разрешается обсуждать с ним работу и вносить предложения по ее улучшению. Приносить свой опыт из дома также очень интересно и желательно.",
             "point": "1"
         }
         ,{
-            "question": "Ich muss auch Anweisungen von Frauen folgen",
+            "question": "Я выполняю указания женщин.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "In Deutschland herrscht Gleichberechtigung, auch Frauen sind oft Chefinnen und dürfen Arbeitsanweisungen geben. Bitte verhalten Sie sich wertschätzend gegenüber Frauen und nehmen Arbeitsanweisungen ebenso wie von Männern entgegen.",
+            "explanation": "В Германии существует равенство между мужчинами и женщинами. Женщины также часто являются начальницами и имеют право давать указания по работе. Относитесь к женщинам также как и к мужчинам и принимайте рабочие инструкции.",
             "point": "1"
         }
         ,{
-            "question": "Schriftliche Aufzeichnungen über das Praktikum sind unwichtig",
+            "question": "Письменные отчеты о практике не имеют значения.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Jeder Mensch lernt anders. Die Gehirnforschung bestätigt aber, dass das, was wir handschriftlich notieren und dokumentieren, am besten in Erinnerung bleibt. Daher ist das regelmäßige Führen des Berichtsheftes von zentraler Bedeutung.",
+            "explanation": "Каждый человек учится по-разному. Однако исследования мозга подтверждают, что лучше всего запоминается то, что мы записываем и документируем от руки. Поэтому регулярное ведение книги отчетов имеет огромное значение.",
             "point": "1"
         }
         ,{
-            "question": "Theorie und Praxis gehören zusammen",
+            "question": "Практическая работа также важна как и теория.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Eine rein theoretische Ausbildung reicht nicht aus, um später im Berufsleben praxisorientiert und korrekte Entscheidungen treffen zu können. Viele Dinge sehen in der Praxis ganz anders aus als in der Theorie – ein Abgleich ist unerlässlich. Diese Gelegenheit bietet ein LOGO-Praktikum!",
+            "explanation": "Чисто теоретического образования недостаточно для того, чтобы в дальнейшем в профессиональной деятельности принимать практико-ориентированные и правильные решения. Многие вещи на практике выглядят совсем иначе, чем в теории - сравнение необходимо. Практика LOGO предоставляет такую возможность!",
             "point": "1"
         }
         ,{
-            "question": "Ich will viel Neues lernen",
+            "question": "Я хочу узнать много нового.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Lebenslanges Lernen – das ist ein wichtiges Motto der deutschen Bildungslandschaft! Wer im Beruf erfolgreich sein will und wer auch langfristig Freude an seinem Beruf haben will, der muss bereit sein, immer wieder Neues hinzu zu lernen. Besonders für junge Menschen wie unsere LOGO-Praktikanten sollte die Lernbereitschaft selbstverständlich sein.",
+            "explanation": "Обучение в течение всей жизни - вот важный девиз немецкого образовния! Каждый, кто хочет быть успешным в своей профессии и получать удовольствие от работы в долгосрочной перспективе, должен быть готов постоянно учиться новому. Особенно для молодых людей желание учиться должно быть само собой разумеющимся.",
             "point": "1"
         }
         ,{
-            "question": "Große Maschinen sind besser als kleine",
+            "question": "Большие сельскохозяйственные машины лучше маленьких.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Im ökologischen Landbau wird eher mit kleineren und Spezialmaschinen gearbeitet. Ebenso spielt die Handarbeit eine größere Rolle. Große und schwere Maschinen verdichten den Boden und sind schlecht für das Bodenleben.",
+            "explanation": "В органическом сельском хозяйстве, как правило, используются небольшие и специализированные машины. Ручной труд также играет большую роль. Большие и тяжелые машины уплотняют почву и плохо влияют на ее жизнь.",
             "point": "1"
         }
         ,{
-            "question": "Mein Zimmer muss ich selber sauber halten",
+            "question": "Я должен сам поддерживать чистоту в своей комнате.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Es gehört zum Praktikum, die zur Verfügung gestellten Räumlichkeiten (Zimmer, Bad, ggf. Küche) selber regelmäßig sauber zu halten. Denken Sie daran: Sie sind Botschafter Ihres Landes!",
+            "explanation": "Частью практики является регулярное поддержание чистоты в предоставленных помещениях (комната, ванная комната, кухня, если применимо). Помните: вы являетесь послом своей страны!",
             "point": "1"
         }
         ,{
-            "question": "Meine Gastfamilie muss alles tun, damit es mir gut geht",
+            "question": "Моя принимающая семья должна сделать все, чтобы мне было хорошо.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Ob es einem Menschen gut geht, hängt nicht nur von seiner Umgebung und seinen Mitmenschen ab. Wenn Sie selber offen und freundlich auf Ihre Gastfamilie zugehen, so ist auch zu erwarten, dass diese sich Ihnen gegenüber freundlich verhält. Wenn Sie ein Problem haben, sprechen Sie dieses möglichst höflich und wertschätzende, aber direkt an. ",
+            "explanation": "Хорошо ли дела у человека, зависит не только от его окружения и окружающих его людей. Если вы открыто и дружелюбно обращаетесь к принимающей семье, вы можете ожидать, что она будет дружелюбно относиться к вам. Если у вас возникла проблема, решайте ее как можно вежливее и благодарнее, но прямо. ",
             "point": "1"
         }
         ,{
-            "question": "Ich kenne mich mit ökologischem Landbau schon gut aus",
+            "question": "Я уже многое знаю об органическом сельском хозяйстве.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Methoden des ökologischen Landbaues sind vielfältig und werden in der Praxis und der Wissenschaft ständig weiterentwickelt. Wenn Sie nicht mit offenen Augen und mit wachen Sinnen in das Praktikum gehen, werden Sie nichts Neues lernen. Die Zusammenhänge erkennt man manchmal erst nach vielen Wochen!",
+            "explanation": "Методы органического сельского хозяйства разнообразны и постоянно совершенствуются на практике и в науке. Если вы не пойдете на прaктику с открытыми глазами и бдительными чувствами, вы не узнаете ничего нового. Иногда вы осознаете связь только через много недель!",
             "point": "1"
         }
         ,{
-            "question": "Wenn ich unsicher bin, stelle ich Fragen",
+            "question": "Когда я не уверен, я задаю вопросы.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Fragen zu stellen ist in Deutschland ein Zeichen von Interesse und Lernwilligkeit. Niemand erwartet von Ihnen, dass Sie alles bereits können. Aber es wird erwartet, dass Sie offen sind für Neues und gerne neue Arbeiten und Zusammenhänge erlernen. Fragen zu stellen gehört dazu. Wenn Sie ewas nicht verstanden haben, fragen Sie bitte immer nach!",
+            "explanation": "В Германии задавать вопросы - это признак заинтересованности и желания учиться. Никто не ожидает, что вы уже все умеете. Но ожидается, что вы открыты для нового и любите изучать новую работу и контекст. Задавать вопросы - это часть этого. Если вы что-то не поняли, пожалуйста, всегда спрашивайте!",
             "point": "1"
         }
         ,{
-            "question": "Ein Praktikum kann ich ohne deutsche Sprachkenntnisse beginnen",
+            "question": "Я могу начать стажировку без знания немецкого языка.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Niemand erwartet von Ihnen perfekte Deutschkenntnisse, aber es müssen gute Grundkenntnisse vorhanden sein. Konzentrieren Sie sich beim Deutschlernen auf die Kommunikation und auf landwirtschaftliche Fachbegiffe, dann fällt Ihnen und dem Betrieb der Start leichter. Fachliches Lernen ist nur bei ausreichenden Sprachkenntnissen möglich!",
+            "explanation": "Никто не ожидает от вас идеального владения немецким языком, но вы должны иметь хорошие базовые знания. При изучении немецкого языка сосредоточьтесь на общении и сельскохозяйственной терминологии, тогда вам и компании будет легче начать работу. Техническое обучение возможно только при достаточном знании языка!",
             "point": "1"
         }   
         ,{
-            "question": "Als LOGO-Praktikant habe ich Rechte und Pflichten",
+            "question": "Как практикант LOGO я имею права и обязанности",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Der Vertrag zwischen LOGO e.V., dem Betrieb und Ihnen regelt die wichtigsten Rechten und Pflichten der Vertragspartner. Viele Studenten lesen leider nur ihre Rechte und vergessen, dass sie auch Pflichten eingegangen sind. Bitte lesen Sie den Vertrag genau durch!",
+            "explanation": "Договор между LOGO e.V., компанией и вами регулирует наиболее важные права и обязанности партнеров по договору. К сожалению, многие студенты только читают свои права и забывают, что у них есть и обязанности. Пожалуйста, внимательно прочитайте договор!",
             "point": "1"
         }
         ,{
-            "question": "Die Theorie interessiert mich mehr als die Praxis",
+            "question": "Теория интересует меня больше, чем практика.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "An der Universität lernen Sie viel Theorie, die Sie im Berufsleben mit der Praxis verbinden müssen. Ein Praktikum in der Landwirtschaft macht für Sie nur dann Sinn, wenn Sie gerne praktisch mit Tieren und/oder Pflanzen arbeiten möchten.",
+            "explanation": "В университете вы изучаете много теории, которую вам придется совмещать с практикой в своей профессиональной деятельности. Практика в сельском хозяйстве имеет смысл для вас только в том случае, если вам нравится практически работать с животными и/или растениями.",
             "point": "1"
         }
         ,{
-            "question": "Meine Probleme löse ich immer selber",
+            "question": "Я всегда решаю свои проблемы сам.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Wenn ein Problem auftaucht, sollten Sie zunächst analysieren, was der Grund dafür ist. Nicht immer liegt die Ursache am Gegenüber, vielleicht haben Sie auch selber falsche Erwartungen gehabt. Ein Problem sollte immer höflich angesprochen und dadurch die Situation verbessert werden. Manchmal bedeutet das auch, an sich selber zu arbeiten und seinen eigenen Teil zur Problemlösung beizu-steuern.",
+            "explanation": "При возникновении проблемы следует сначала проанализировать, в чем причина. Причина не всегда кроется в другом человеке, возможно, вы сами имели неправильные ожидания. Проблему всегда следует решать вежливо и улучшать ситуацию. Иногда это также означает работу над собой и внесение своего вклада в решение проблемы. ",
             "point": "1"
         }
         ,{
-            "question": "Ich bin ein fröhlicher und weltoffener Mensch",
+            "question": "Я жизнерадостный и открытый человек.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Ein Praktikum weit ab von der eigenen Familie und Kultur ist zunächst einmal gewöhnungsbedürftig. Es braucht ein wenig Zeit, sich einzuleben und die vielen neuen Dinge zu verstehen. Wer jedoch gar kein Interesse an einer anderen Kultur und Menschen aus diesem Kulturkreis hat, der sollte kein Praktikum im Ausland machen.",
+            "explanation": "К практике вдали от родной семьи и культуры сначала нужно привыкнуть. Требуется некоторое время, чтобы освоиться и понять многие новые вещи. Однако если вас не интересует другая культура и люди из этой культуры, вам не стоит проходить практику за рубежом.",
             "point": "1"
         }
         ,{
-            "question": "Religion ist wichtiger als berufliche Bildung",
+            "question": "Религия важнее, чем профессиональное образование.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Deutschland ist ein Land, in dem Staat und Religion streng getrennt sind. Im Praktikum sollte die jeweilige Religion keine übergeordnete Rolle spielen. Das fachliche Lernen im ökologischen Landbau ist das zentrale Ziel des Praktikums. Wem seine Religion so wichtig ist, dass er sie über alles andere stellt, der sollte kein Praktikum in Deutschland machen.",
+            "explanation": "Германия - страна, где государство и религия строго разделены. В практике соответствующая религия не должна играть главенствующую роль. Профессиональное обучение в области органического с/х является главной целью практики. Если ваша религия настолько важна, что вы ставите ее выше всего остального, вам не стоит проходить практику в Германии.",
             "point": "1"
         }
         ,{
-            "question": "Ich muss die Regeln im Praktikumsbetrieb akzeptieren",
+            "question": "Я должен принять правила, принятые в предприятии, где я прохожу практику.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Zunächst einmal ist der Betriebsleiter weisungsbefugt – das bedeutet, dass Sie den Anweisungen Folge leisten müssen. Natürlich dürfen Sie mit dem Chef über Arbeitsabläufe sprechen und selber Verbesserungsvorschläge machen.",
+            "explanation": "Прежде всего, руководитель имеет право давать указания - это означает, что вы должны следовать инструкциям. Конечно, вам разрешается обсуждать с начальником рабочие процессы и самому вносить предложения по их улучшению. ",
             "point": "1"
         }
         ,{
-            "question": "Ich übernehme gerne Verantwortung",
+            "question": "Мне нравится брать на себя ответственность.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Die Bereitschaft, Verantwortung für einen Arbeitsbereich zu übernehmen, gehört zum Berufsleben eines Menschen mit Hochschul-Ausbildung. Zudem lernt man am meisten durch konkrete Erfahrung. Nur wenn Sie Bereitschaft zeigen, eigenverantwortlich zu arbeiten, ist ein landwirtschaftliches Praktikum geeignet für Sie.",
+            "explanation": "Готовность взять на себя ответственность за участок работы является частью профессиональной деятельности человека с университетским образованием. Более того, больше всего вы учитесь на конкретном опыте. Только если вы проявите готовность работать под свою ответственность, вам подойдет сельскохозяйственная практика. ",
             "point": "1"
         }
         ,{
-            "question": "Ich mache mir nicht gerne die Hände schmutzig",
+            "question": "Я не люблю марать руки.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "2",
-            "explanation": "Ein landwirtschaftliches Praktikum ist keine Büro- oder Laborarbeit! Je nachdem, in welche Art Betrieb Sie kommen, werden Sie mit den Händen auch schmutzige Arbeiten machen müssen, z.B. Jungpflanzen setzen, Tiere ausmisten, Maschinen reparieren. Nur wenn Sie sich das vorstellen können, ist ein LOGO-Praktikum geeignet für Sie.",
+            "explanation": "Сельскохозяйственная практика - это не офисная или лабораторная работа! В зависимости от типа фермы, на которую вы придете, вам также придется выполнять грязную работу руками, например, высаживать молодые растения, убирать за животными, ремонтировать машины. Только если вы можете себе это представить, практика LOGO вам подходит.",
             "point": "1"
         }
         ,{
-            "question": "Ich mache das Praktikum nur, um nach Deutschland zu kommen",
+            "question": "Я прохожу практику только для того, чтобы приехать в Германию.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
-            ],
-            "correctAnswer": "2",
-            "explanation": "LOGO e.V. ist kein Reiseveranstalter! Wir möchten Wissen zum ökologischen Landbau weitergeben und jungen Menschen eine interkulturelle Erfahrung ermöglichen. Die Verständigung Ost-West steht dabei im Mittelpunkt. Die praktische Erfahrung soll ein wichtiger Teil Ihres Studiums sein, Ihre Persönlichkeit weiterentwickeln und Ihren weiteren beruflichen Werdegang befördern.",
-            "point": "1"
-        }
-        ,{
-            "question": "Ohne mein Smartphone kann ich nicht leben",
-            "questionType": "text",
-            "questionPic": "",
-            "answerSelectionType": "single",
-            "answers": [
-                "JA",
-                "NEIN"
-            ],
-            "correctAnswer": "2",
-            "explanation": "Ein Smartphone gehört heutzutage zum Leben und erleichtert vieles. So konnten noch vor 10-15 Jahren die LOGO-Praktikanten nur sehr selten und kurz zuhause anrufen. Aber ein Smartphone sollte im Praktikum nicht zu viel genutzt werden, denn dann hindert es Sie daran, sich auf die neue Situation einzulassen und die andere Sprache und Kultur kennen zu lernen. Daher: Während der Arbeitszeiten sollte das Smartphone nicht dabei sein!",
-            "point": "1"
-        }
-        ,{
-            "question": "Ich möchte später eine eigene Landwirtschaft betreiben",
-            "questionType": "text",
-            "questionPic": "",
-            "answerSelectionType": "single",
-            "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Auch für Studenten, die im späteren Berufsleben keine praktische Landwirtschaft betreiben möchten, kann ein LOGO-Praktikum sehr sinnvoll sein. Bitte überlegen Sie vorher aber genau, was Sie von Ihrer Zeit in Deutschland erwarten. Wo bietet ein landwirtschaftlicher Betrieb Anknüpfungspunkte für Ihre beruflichen Pläne? Diskutieren Sie dies vor der Vermittlung in einen konkreten Betrieb mit LOGO!",
+            "explanation": "LOGO e.V. не является туроператором! Мы хотим передать знания об органическом сельском хозяйстве и дать возможность молодым людям получить межкультурный опыт. Основное внимание уделяется взаимопониманию между Востоком и Западом. Практический опыт должен стать важной частью вашего обучения, развивать вашу личность и способствовать вашей дальнейшей карьере.",
             "point": "1"
         }
         ,{
-            "question": "Schriftliche Aufzeichnungen während des Praktikums zu machen, ist sehr wichtig",
+            "question": "Я не могу жить без своего смартфона.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
             "answers": [
-                "JA",
-                "NEIN"
+                "ДА",
+                "НЕТ"
+            ],
+            "correctAnswer": "2",
+            "explanation": "В настоящее время смартфон является частью жизни и облегчает многие вещи. Например, 10-15 лет назад практиканты LOGO могли звонить домой очень редко и ненадолго. Но смартфон не стоит использовать слишком часто во время стажировки, потому что тогда он помешает вам включиться в новую ситуацию и познакомиться с другим языком и культурой. Поэтому: смартфон не должен быть с вами в рабочее время!",
+            "point": "1"
+        }
+        ,{
+            "question": "В дальнейшем я хотел бы вести собственную ферму.",
+            "questionType": "text",
+            "questionPic": "",
+            "answerSelectionType": "single",
+            "answers": [
+                "ДА",
+                "НЕТ"
             ],
             "correctAnswer": "1",
-            "explanation": "Während eines LOGO-Praktikums müssen Sie ein Berichtsheft führen. Darin notieren Sie in Wochen- und Sachberichten über Ihre Arbeiten im Betrieb und über bestimmte für Sie besonders interessante Themen. Das Berichtsheft wird am Praktikumsende benotet und geht in Ihr Praktikumszeugnis ein.",
+            "explanation": "Практика LOGO также может быть очень полезна для студентов, которые не хотят заниматься практическим сельским хозяйством на более поздних этапах своей карьеры. Однако, пожалуйста, заранее хорошо подумайте о том, чего вы ожидаете от пребывания в Германии. Где ферма может стать связующим звеном для ваших карьерных планов? Обсудите это с LOGO, прежде чем вас распределят на конкретную ферму!",
+            "point": "1"
+        }
+        ,{
+            "question": "Ведение письменных записей во время практики очень важно.",
+            "questionType": "text",
+            "questionPic": "",
+            "answerSelectionType": "single",
+            "answers": [
+                "ДА",
+                "НЕТ"
+            ],
+            "correctAnswer": "1",
+            "explanation": "Во время практики в LOGO вы должны вести отчетную тетрадь. В ней вы делаете еженедельные записи о своей работе в компании и об определенных темах, которые вас особенно интересуют. Отчетная тетрадь будет оцененa в конце практики и будет включенa в ваш сертификат о прохождении практики.",
             "point": "1"
         }    
     ],
     "appLocale": {
-        "landingHeaderText": "<questionLength> Fragen",
-        "question": "Frage",
-        "startQuizBtn": "Quiz starten",
-        "resultFilterAll": "Alle",
-        "resultFilterCorrect": "Richtig",
-        "resultFilterIncorrect": "Falsch",
-        "nextQuestionBtn": "Nächste Frage",
-        "resultPageHeaderText": "Eignungstest beendet.",
-        "resultPagePoint": "Sie haben <correctPoints> von <totalPoints> Fragen richtig beantwortet!"
+        "landingHeaderText": "<questionLength> вопросов",
+        "question": "вопрос",
+        "startQuizBtn": "Начать викторину",
+        "resultFilterAll": "Все",
+        "resultFilterCorrect": "Верно",
+        "resultFilterIncorrect": "Неправильно",
+        "nextQuestionBtn": "Следующий вопрос",
+        "resultPageHeaderText": "Закончился тест на дееспособность.",
+        "resultPagePoint": "Вы правильно ответили на <correctPoints> из <totalPoints> вопросов!"
       } 
 }

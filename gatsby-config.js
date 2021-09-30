@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/eignungstest`,
+  pathPrefix: `/eignungstest_ru`,
   siteMetadata: {
     siteUrl: "https://logoev.de/",
     title: "Praktikum Selbsttest",
