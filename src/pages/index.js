@@ -20,7 +20,7 @@ const IndexPage = () => {
     <div className="outerwrap">
       <Container className="wrap p-0">
         <header>
-          <title>Eignungstest für ein LOGO-Praktikum</title>
+          <title>Тест - проверка на пригодность к практике LOGO</title>
           <img className="img-fluid" alt="logo" src="banner.jpg" />
         </header>
 
@@ -33,7 +33,7 @@ const IndexPage = () => {
         <footer>
           <Row className="justify-content-md-center py-4 footer">
             <span>Copyright © 2021 LOGO e.V.</span>
-            <a href="https://logoev.de/de/impressum-datenschutz">Impressum & Datenschutz</a>
+            <a href="https://logoev.de/ru/impressum-datenschutz">Выходные данные Защита данных</a>
           </Row>
         </footer>
       </Container>

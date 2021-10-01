@@ -3,7 +3,7 @@
     "quizSynopsis": "Пожалуйста, отвечайте честно! Союз LOGO не имеет доступа к вашим ответам. Вы проходите тест только для себя и только у вас есть доступ к вашим результатам.",
     "questions": [
         {
-            "question": "Согласны ли вы с этим утверждением?",
+            "question": "Мне нравится работать физически.",
             "questionType": "text",
             "questionPic": "",
             "answerSelectionType": "single",
@@ -462,7 +462,7 @@
     "appLocale": {
         "landingHeaderText": "<questionLength> вопросов",
         "question": "вопрос",
-        "startQuizBtn": "Начать викторину",
+        "startQuizBtn": "начать тест",
         "resultFilterAll": "Все",
         "resultFilterCorrect": "Верно",
         "resultFilterIncorrect": "Неправильно",
